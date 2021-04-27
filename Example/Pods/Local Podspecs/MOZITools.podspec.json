@@ -1,0 +1,22 @@
+{
+  "name": "MOZITools",
+  "version": "0.0.1",
+  "summary": "我只是一个小乞丐",
+  "description": "你是不是傻？ 说了描述只能写在这里，你还要干嘛呢？",
+  "homepage": "https://github.com/AlexWang/MOZITools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexander": "1509159596@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/AlexWang/MOZITools.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MOZITools/Classes/**/*"
+}
